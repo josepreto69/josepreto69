@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @josepreto69
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola me nome é @josepreto69
+- 👀 estou interessado em aprender novos HTML e poder ajudar outras pessoas
+- 🌱atualmente estou aprendendo sobre HTML
+- 💞️ procuro colaborara para ajudar outras pessoas
+- 📫 caso queira falar comingo mande um sms para o @josepreto69
 
 <!---
 josepreto69/josepreto69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
